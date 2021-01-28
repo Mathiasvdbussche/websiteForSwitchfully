@@ -1,0 +1,140 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #ffffff;
+  }
+.header-container{
+    color: #fff;
+    background-color: #3e5168;  /* Blue */
+    background-image: url(images/html-color-codes-color-tutorials-hero.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px 0;
+    margin: 0px;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+}
+.naam{
+    font-family: "Helvetica", "Arial", sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    padding-bottom: 25px;
+    background: none;
+}
+.foto{
+    display: flex;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    
+}
+.foto:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.body-container {
+    display: flex;
+    justify-content: center;
+    padding: 0px 50px 50px 50px;
+    background-color: #ffffff;
+
+  }
+.social-footer-container {
+    display: flex;
+    justify-content: center;
+    size: 50px;
+    padding: 50px 50px 50px 50px;
+    background-color: #ffffff;
+  }
+.Ervaring1 {
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+.Ervaring1:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.Ervaring2 {
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.Ervaring2:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.Ervaring3 {
+    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+}
+.Ervaring3:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+p{
+  color: rgb(0, 0, 0);
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  background-color: #ffffff;
+  display: flex;
+  justify-content: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+}
+h2{
+    color:rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #c9a91e;
+}
+.facebook{
+    margin:20px;
+}
+.github{
+    margin:20px;
+}
+.linkedin{
+    margin:20px;
+}
+.facebook:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.github:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+.linkedin:hover{
+    -webkit-transform: scale(1.2);
+    -ms-transform: scale(1.2);
+    transform: scale(1.2);
+}
+h1{
+    color:rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid #c7231d;
+}
+ul{
+    color:rgb(0, 0, 0);
+    align-content: center;
+    align-items: center;
+    text-align: center;
+}
